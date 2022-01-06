@@ -75,7 +75,7 @@
     "normalize.scss": "0.1.0",
     "object.values": "1.0.4",
     "opn": "5.1.0",
-    "parse-link-header": "1.0.0",
+    "parse-link-header": "2.0.0",
     "psl": "1.1.18",
     "punycode": "1.4.1",
     "runtimer": "1.0.3",
